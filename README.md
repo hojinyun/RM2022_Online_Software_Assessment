@@ -38,6 +38,6 @@ No requirement for contributing unless completely unreasonable.
 
 MIT © Richard McRichface.
 
-  * Licensed under MCD-ST Liberty SW License Agreement V2, (the "License");
-  * You may not use this file except in compliance with the License.
-  * You may obtain a copy of the License at: STMicroelectronics(http://www.st.com/software_license_agreement_liberty_v2)
+Licensed under MCD-ST Liberty SW License Agreement V2, (the "License");
+You may not use this file except in compliance with the License.
+You may obtain a copy of the License at: http://www.st.com/software_license_agreement_liberty_v2
