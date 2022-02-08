@@ -36,7 +36,7 @@ No requirement for contributing unless completely unreasonable.
 
 ## License
 
-MIT © Richard McRichface.
+[MIT © Richard McRichface.](https://github.com/RichardLitt/standard-readme/blob/master/LICENSE)
 
 Licensed under MCD-ST Liberty SW License Agreement V2, (the "License");
 You may not use this file except in compliance with the License.
